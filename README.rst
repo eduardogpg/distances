@@ -10,11 +10,11 @@ Requisitos para funcionar
 ==========================
 
 requisitos son:
-- numpy
-- pandas
-- python-dateutil
-- pytz
-- six
+* numpy
+* pandas
+* python-dateutil
+* pytz
+* six
 
 
 como instalar requisitos
@@ -25,6 +25,7 @@ mediante pip con el requirements.txt
 pip install -r requirements.txt
 
 o compilandos
+
 
 .. _numpy: https://numpy.org/
 .. _pandas: https://pandas.pydata.org/
