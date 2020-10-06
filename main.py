@@ -10,7 +10,7 @@ from modules.tsv.opentsv import openTsv
 # from typing import Union
 
 
-def main(args: List) -> int:
+def main(args: List[str]) -> int:
     tsv = openTsv()
     dist = Distance()
     path_user = 'tsv_files/users_no_orders.tsv'
