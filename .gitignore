@@ -1,0 +1,4 @@
+.pre-commit-config.yaml
+tox.ini
+__pycache__
+.git/hook/pre-commit
