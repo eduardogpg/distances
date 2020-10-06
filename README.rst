@@ -10,6 +10,7 @@ Requisitos para funcionar
 ==========================
 
 requisitos son:
+
 * numpy
 * pandas
 * python-dateutil
