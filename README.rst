@@ -1,5 +1,5 @@
 =============================
-aport para hacktoberfest
+aporte para hacktoberfest
 =============================
 
 # agregando aporte con clases y anotaciones
@@ -25,8 +25,13 @@ mediante pip con el requirements.txt
 
 pip install -r requirements.txt
 
-o compilandos
+o compilandos:
 
+* numpy_
+* pandas_
+* dateutil_
+* pytz_
+* six_
 
 .. _numpy: https://numpy.org/
 .. _pandas: https://pandas.pydata.org/
